@@ -1,0 +1,8 @@
+{
+  "name": "United Business Alliance (UBA)",
+  "description": "A business investment and management platform connecting vetted SMEs with investors through background checks, legal compliance, and ongoing financial audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
